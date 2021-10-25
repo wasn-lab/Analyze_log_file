@@ -9,4 +9,4 @@ a small tool which can analyze repeated data in a log file
 
 4.等待數秒
 
-5.執行完畢後會匯出一份export_log_file至此資料夾中，由左至右分別是車機id、時間、重複次數
+5.執行完畢後會匯出一份log_result.csv至此資料夾中，由左至右分別是車機id、時間、重複次數
